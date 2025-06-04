@@ -4,6 +4,11 @@ body {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
 
+
+}
+
+#interests {
+    padding: 100px;
 }
 
 #all-contents {
@@ -53,6 +58,11 @@ main {
     background: rgb(245,238,219);
     display: flex;
     margin-top: 20px;
+    border-radius: 15px;
+}
+
+#johnp {
+    border-radius: 30px;
 }
 
 .sidebar {
@@ -62,6 +72,7 @@ main {
 
 .sidebar-img {
     width: 200px;
+    border-radius: 30px;
 }
 
 .content {
@@ -152,17 +163,5 @@ li {
     align-content: center;
     justify-content: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
