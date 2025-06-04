@@ -145,7 +145,7 @@ h2, h3 {
     height: 100ch;
     margin: none;
   }
-  a {font-size 42px;}
+  a {font-size: 42px;}
 .sidebar {
     margin-right:0px;
     justify-content: center;
@@ -163,5 +163,5 @@ li {
     align-content: center;
     justify-content: center;
 }
-
 }
+
